@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="70" viewBox="0 0 620 70">
+  <defs><clipPath id="hclip"><rect x="0" y="0" width="620" height="70"/></clipPath></defs>
+  <g clip-path="url(#hclip)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-648 0" dur="18s" calcMode="linear" repeatCount="indefinite"/>
+      <g transform="translate(0 0)"><rect x="0" y="18" width="112" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="56.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Maps &amp; GIS</text></g>
+      <g transform="translate(132 0)"><rect x="0" y="18" width="80" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="40.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Design</text></g>
+      <g transform="translate(232 0)"><rect x="0" y="18" width="64" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="32.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Tech</text></g>
+      <g transform="translate(316 0)"><rect x="0" y="18" width="72" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="36.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Music</text></g>
+      <g transform="translate(408 0)"><rect x="0" y="18" width="80" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="40.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Travel</text></g>
+      <g transform="translate(508 0)"><rect x="0" y="18" width="120" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="60.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Photography</text></g>
+      <g transform="translate(648 0)"><rect x="0" y="18" width="112" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="56.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Maps &amp; GIS</text></g>
+      <g transform="translate(780 0)"><rect x="0" y="18" width="80" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="40.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Design</text></g>
+      <g transform="translate(880 0)"><rect x="0" y="18" width="64" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="32.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Tech</text></g>
+      <g transform="translate(964 0)"><rect x="0" y="18" width="72" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="36.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Music</text></g>
+      <g transform="translate(1056 0)"><rect x="0" y="18" width="80" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="40.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Travel</text></g>
+      <g transform="translate(1156 0)"><rect x="0" y="18" width="120" height="34" rx="17" fill="#0A1628" fill-opacity="0.85" stroke="#06B6D4" stroke-width="1.5"/><text x="60.0" y="40" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="15" fill="#ffffff">Photography</text></g>
+    </g>
+  </g>
+</svg>

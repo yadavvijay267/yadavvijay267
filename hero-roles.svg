@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="90" viewBox="0 0 600 90">
+  <style>
+    .role { font-family: 'Segoe UI', Arial, Helvetica, sans-serif; font-size: 36px; font-weight: 700; fill: #06B6D4; text-anchor: middle; }
+  </style>
+  <text x="300" y="58" class="role" opacity="0">QC Engineer<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.28;0.33" dur="9s" begin="0s" repeatCount="indefinite"/></text>
+  <text x="300" y="58" class="role" opacity="0">Fiber Design Engineer<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.28;0.33" dur="9s" begin="3s" repeatCount="indefinite"/></text>
+  <text x="300" y="58" class="role" opacity="0">Telecom Design Engineer<animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.28;0.33" dur="9s" begin="6s" repeatCount="indefinite"/></text>
+</svg>

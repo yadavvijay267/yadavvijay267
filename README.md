@@ -1,93 +1,158 @@
-<div align="center">
-
-<img src="./hero.svg" alt="Vijay Kumar Yadav — QC Engineer (Planning &amp; Designing)" width="100%" />
-
-</div>
-
-# Hi, I'm Vijay Kumar Yadav 👋
-
-**QC Engineer (Planning & Designing)** at **AMSYS IT Service Pvt Ltd, Noida**
-
-> "I catch design errors before they reach the field."
-
-I'm a telecom design engineer with about 5 years of experience — all of it at AMSYS in Noida. I started in telecom design, moved into fiber design, and now work in quality control, checking fiber network designs, survey records, and QC comments before they go to the field.
+<!-- 1 · HERO -->
+<p align="center">
+  <img src="hero.svg" alt="Fiber network hero" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/350%2B-Projects_Completed-06B6D4?style=flat-square" alt="350+ Projects Completed" />
-  <img src="https://img.shields.io/badge/100%2B-Quality_Checks_Completed-06B6D4?style=flat-square" alt="100+ Quality Checks Completed" />
-  <img src="https://img.shields.io/badge/5-Years_of_Experience-0A1628?style=flat-square" alt="5 Years of Experience" />
-  <img src="https://img.shields.io/badge/3-Roles_at_AMSYS-0A1628?style=flat-square" alt="3 Roles at AMSYS" />
+  <img src="character-hero.png" width="240" alt="Vijay Kumar Yadav waving" />
+</p>
+
+<h1 align="center">Vijay Kumar Yadav</h1>
+
+<p align="center">
+  <img src="hero-roles.svg" alt="QC Engineer · Fiber Design Engineer · Telecom Design Engineer" />
+</p>
+
+<p align="center">
+  I catch design errors before they reach the field.<br/>
+  Telecom design engineer · 5+ years · AMSYS IT Service Pvt Ltd, Noida
+</p>
+
+<p align="center">
+  <a href="https://bio.vijayyadav.workers.dev"><img src="https://img.shields.io/badge/Portfolio-bio.vijayyadav.workers.dev-06B6D4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vijaykryadav"><img src="https://img.shields.io/badge/LinkedIn-vijaykryadav-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yadavvijay267@gmail.com"><img src="https://img.shields.io/badge/Email-yadavvijay267@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://resumate.vijayyadav.workers.dev"><img src="https://img.shields.io/badge/ResuMate-AI_Resume_Builder-6366F1?style=flat&logo=readthedocs&logoColor=white" alt="ResuMate" /></a>
 </p>
 
 ---
 
-## 🔍 What I Do
+## 🛠️ What I Build
 
-- **Design Quality Control** — reviewing fiber designs, survey records (plats), and QC comments so errors are fixed on paper, not in the field
-- **Fiber Network Planning & Design** — FTTH underground & overhead layouts, from survey to fielding packages
-- **Engineering Design** — design packages built with ARAMIS-DT, WALDO, AutoCAD, and GIS
-
-## 🛠️ Tools I Work With
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0A1628?style=flat-square)
-![GIS](https://img.shields.io/badge/GIS-0A1628?style=flat-square)
-![Google Earth Pro](https://img.shields.io/badge/Google_Earth_Pro-0A1628?style=flat-square)
-![ARAMIS-DT](https://img.shields.io/badge/ARAMIS--DT-06B6D4?style=flat-square)
-![WALDO](https://img.shields.io/badge/WALDO-06B6D4?style=flat-square)
-![IQGEO](https://img.shields.io/badge/IQGEO-06B6D4?style=flat-square)
-![BIC/BCL Portal](https://img.shields.io/badge/BIC%2FBCL_Portal-06B6D4?style=flat-square)
-![MS Excel](https://img.shields.io/badge/MS_Excel-0A1628?style=flat-square)
-![Google Maps / Bing Maps](https://img.shields.io/badge/Google_Maps_%2F_Bing_Maps-0A1628?style=flat-square)
-![AT&T F2 Fiber Design](https://img.shields.io/badge/AT%26T_F2_Fiber_Design-06B6D4?style=flat-square)
-![Quality Control](https://img.shields.io/badge/Quality_Control-06B6D4?style=flat-square)
-![Survey Records (Plats)](https://img.shields.io/badge/Survey_Records_%28Plats%29-0A1628?style=flat-square)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📡 Fiber Network Design</h3>
+      FTTH networks — underground &amp; overhead — designed end to end, from survey records to field-ready packages.
+    </td>
+    <td align="center" width="33%">
+      <h3>🔍 Design Quality Control</h3>
+      Design QC that catches errors before they reach the field — AT&amp;T F2 Fiber packages, checked line by line.
+    </td>
+    <td align="center" width="33%">
+      <h3>🗺️ ARAMIS &amp; Fielding</h3>
+      ARAMIS-DT and fielding packages for fiber builds, with GIS, plats and survey data woven in.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📂 My Work
+## 🎡 Hobbies
 
-### Experience
-
-| Role | Period |
-| --- | --- |
-| QC Engineer — AMSYS IT Service Pvt Ltd, Noida | Feb 2026 – Present |
-| Fiber Design Engineer – 1 — AMSYS IT Service Pvt Ltd, Noida | Dec 2023 – Feb 2026 |
-| Telecom Design Engineer — AMSYS IT Service Pvt Ltd, Noida | Oct 2021 – Dec 2023 |
-
-### Case Studies
-
-| Project | Focus |
-| --- | --- |
-| AT&T F2 Fiber — Design Quality Control | Quality Control |
-| ARAMIS & Fielding Packages — Fiber Design | Design |
-| FTTH Network — Underground & Overhead Design | Planning |
-
-### Projects on GitHub
-
-| Project | What it is | Links |
-| --- | --- | --- |
-| **Portfolio** | My personal portfolio site — experience, case studies, skills, and contact | [Repo](https://github.com/yadavvijay267/portfolio) · [Live](https://vijay267.clamorgaming.workers.dev) |
-| **ResuMate** | AI resume builder with ATS score checker, AI writer, and interview coach | [Repo](https://github.com/yadavvijay267/resumate) · [Live](https://resumate.clamorgaming.workers.dev) |
-| **Diwali Wish Webpage** | Interactive Diwali wish page — diyas, fireworks, countdown, and wish cards | [Repo](https://github.com/yadavvijay267/diwali-wish-webpage) |
+<p align="center">
+  <img src="hobbies.svg" alt="Hobbies carousel" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛰️ Tech Orbit
+
+<p align="center">
+  <img src="orbit.svg" width="420" alt="Tech orbit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoCAD-0A1628?style=flat" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/GIS-0A1628?style=flat" alt="GIS" />
+  <img src="https://img.shields.io/badge/Google_Earth_Pro-0A1628?style=flat" alt="Google Earth Pro" />
+  <img src="https://img.shields.io/badge/ARAMIS--DT-0A1628?style=flat" alt="ARAMIS-DT" />
+  <img src="https://img.shields.io/badge/WALDO-0A1628?style=flat" alt="WALDO" />
+  <img src="https://img.shields.io/badge/IQGEO-0A1628?style=flat" alt="IQGEO" />
+  <img src="https://img.shields.io/badge/BIC%2FBCL_Portal-0A1628?style=flat" alt="BIC/BCL Portal" />
+  <img src="https://img.shields.io/badge/MS_Excel-0A1628?style=flat" alt="MS Excel" />
+  <img src="https://img.shields.io/badge/Google_Maps-0A1628?style=flat" alt="Google Maps" />
+  <img src="https://img.shields.io/badge/Bing_Maps-0A1628?style=flat" alt="Bing Maps" />
+  <img src="https://img.shields.io/badge/AT%26T_F2_Fiber-0A1628?style=flat" alt="AT&T F2 Fiber" />
+  <img src="https://img.shields.io/badge/Quality_Control-0A1628?style=flat" alt="Quality Control" />
+</p>
+
+---
+
+## 🪪 ID Badge
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="character-id.png" width="150" alt="Vijay Kumar Yadav" />
+    </td>
+    <td>
+      <h3>Vijay Kumar Yadav</h3>
+      <b>ID:</b> VY-267<br/>
+      <b>Role:</b> QC Engineer (Planning &amp; Designing)<br/>
+      <b>Company:</b> AMSYS IT Service Pvt Ltd<br/>
+      <b>Location:</b> Noida, India<br/>
+      <b>Experience:</b> 5+ years · 3 roles<br/>
+      <b>Focus:</b> AT&amp;T F2 Fiber · Quality Control · Fiber Design
+    </td>
+  </tr>
+</table>
+
+## 📊 Dashboard
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yadavvijay267&theme=github_dark" alt="Vijay's GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadavvijay267&theme=github_dark" alt="Most used languages" />
 </p>
 
+<p align="center">
+  <img src="barchart.svg" alt="Experience by role" />
+</p>
+
+<p align="center">
+  <b>🔵 Now:</b> QC Engineer @ AMSYS — AT&amp;T F2 Fiber design quality control · 350+ projects completed · 100+ quality checks
+</p>
+
+---
+
+## 📂 Projects
+
+| Project | What it is | Link |
+|---|---|---|
+| **Bio — Portfolio** | My portfolio site (static HTML/CSS/JS) — experience, case studies, skills, education | [bio.vijayyadav.workers.dev](https://bio.vijayyadav.workers.dev) |
+| **ResuMate** | AI resume builder — ATS score checker, AI writer, interview coach, My Resumes dashboard | [resumate.vijayyadav.workers.dev](https://resumate.vijayyadav.workers.dev) |
+| **AT&T F2 Fiber — Design QC** | Quality control of AT&amp;T F2 Fiber design packages | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
+| **ARAMIS & Fielding** | Fiber design — ARAMIS-DT &amp; fielding packages | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
+| **FTTH Network Design** | FTTH network — underground &amp; overhead design | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
+| **Diwali Wish Page** | Interactive Diwali wish webpage — diyas, fireworks, wish cards | [Repo](https://github.com/yadavvijay267/diwali-wish-webpage) |
+
+## 🌆 Contribution City
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/06B6D4/yadavvijay267" alt="Vijay's contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavvijay267&theme=dark&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub streak" />
+</p>
+
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 **Email:** [yadavvijay267@gmail.com](mailto:yadavvijay267@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/vijaykryadav](https://www.linkedin.com/in/vijaykryadav)
-- 🌐 **Portfolio:** [vijay267.clamorgaming.workers.dev](https://vijay267.clamorgaming.workers.dev)
-- 📄 **Resume (PDF):** [Download from my portfolio repo](https://github.com/yadavvijay267/portfolio/blob/main/public/downloads/vijay-kumar-yadav-resume.pdf)
+<p align="center">
+  <img src="character-footer.png" width="340" alt="Vijay pointing to his links" />
+</p>
 
----
+<p align="center">
+  <a href="mailto:yadavvijay267@gmail.com"><img src="https://img.shields.io/badge/Email-yadavvijay267@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vijaykryadav"><img src="https://img.shields.io/badge/LinkedIn-vijaykryadav-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bio.vijayyadav.workers.dev"><img src="https://img.shields.io/badge/Portfolio-Bio-06B6D4?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://resumate.vijayyadav.workers.dev"><img src="https://img.shields.io/badge/ResuMate-AI_Resume_Builder-6366F1?style=flat&logo=readthedocs&logoColor=white" alt="ResuMate" /></a>
+  <a href="https://github.com/yadavvijay267"><img src="https://img.shields.io/badge/GitHub-yadavvijay267-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://bio.vijayyadav.workers.dev/downloads/vijay-kumar-yadav-resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0A1628?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
+</p>
 
-<p align="center">Thanks for visiting — feel free to reach out if you work in fiber, telecom design, or quality control. 👋</p>
+<p align="center">
+  <i>“I catch design errors before they reach the field.”</i>
+</p>

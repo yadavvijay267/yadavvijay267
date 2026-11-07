@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="210" viewBox="0 0 620 210">
+  <text x="10" y="24" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Experience by Role (years)</text>
+  <line x1="195.0" y1="40" x2="195.0" y2="182" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="195.0" y="198" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" fill="#ffffff" fill-opacity="0.55">0</text>
+  <line x1="272.3" y1="40" x2="272.3" y2="182" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="272.3" y="198" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" fill="#ffffff" fill-opacity="0.55">0.5</text>
+  <line x1="349.5" y1="40" x2="349.5" y2="182" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="349.5" y="198" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" fill="#ffffff" fill-opacity="0.55">1</text>
+  <line x1="426.8" y1="40" x2="426.8" y2="182" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="426.8" y="198" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" fill="#ffffff" fill-opacity="0.55">1.5</text>
+  <line x1="504.1" y1="40" x2="504.1" y2="182" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="504.1" y="198" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" fill="#ffffff" fill-opacity="0.55">2</text>
+  <line x1="581.4" y1="40" x2="581.4" y2="182" stroke="#ffffff" stroke-opacity="0.12"/>
+  <text x="581.4" y="198" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="10" fill="#ffffff" fill-opacity="0.55">2.5</text>
+  <text x="185" y="66" text-anchor="end" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">Telecom Design Engineer</text>
+  <rect x="195" y="48" width="0" height="26" rx="6" fill="#06B6D4"><animate attributeName="width" from="0" to="340" dur="1.2s" begin="0s" fill="freeze"/></rect>
+  <text x="543" y="66" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#06B6D4" opacity="0">2.2 yrs<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/></text>
+  <text x="185" y="116" text-anchor="end" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">Fiber Design Engineer</text>
+  <rect x="195" y="98" width="0" height="26" rx="6" fill="#06B6D4"><animate attributeName="width" from="0" to="340" dur="1.2s" begin="0.25s" fill="freeze"/></rect>
+  <text x="543" y="116" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#06B6D4" opacity="0">2.2 yrs<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.45s" fill="freeze"/></text>
+  <text x="185" y="166" text-anchor="end" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" fill="#ffffff">QC Engineer</text>
+  <rect x="195" y="148" width="0" height="26" rx="6" fill="#06B6D4"><animate attributeName="width" from="0" to="124" dur="1.2s" begin="0.5s" fill="freeze"/></rect>
+  <text x="327" y="166" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#06B6D4" opacity="0">0.8 yrs (current)<animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.7s" fill="freeze"/></text>
+</svg>
