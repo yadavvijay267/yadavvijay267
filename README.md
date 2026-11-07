@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="character-hero.png" width="240" alt="Vijay Kumar Yadav waving" />
+  <img src="character-hero.gif" width="240" alt="Vijay Kumar Yadav waving" />
 </p>
 
 <h1 align="center">Vijay Kumar Yadav</h1>
