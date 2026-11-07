@@ -75,8 +75,8 @@ I'm a telecom design engineer with about 5 years of experience — all of it at 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadavvijay267&show_icons=true&theme=dark&title_color=06B6D4&text_color=ffffff&icon_color=06B6D4&bg_color=0A1628&hide_border=true" alt="Vijay's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavvijay267&layout=compact&theme=dark&title_color=06B6D4&text_color=ffffff&bg_color=0A1628&hide_border=true" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yadavvijay267&theme=github_dark" alt="Vijay's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadavvijay267&theme=github_dark" alt="Most used languages" />
 </p>
 
 ---
