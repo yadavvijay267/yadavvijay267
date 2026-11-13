@@ -29,6 +29,7 @@
 | **ARAMIS & Fielding** | Fiber design — ARAMIS-DT & fielding packages | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
 | **FTTH Network Design** | FTTH network — underground & overhead design | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
 | **Diwali Wish Page** | Interactive Diwali wish webpage — diyas, fireworks, wish cards | [Repo](https://github.com/yadavvijay267/diwali-wish-webpage) |
+| **100 Mini Projects** | 100 projects in 4 phases — Phase 1 (15 repos) + Phases 2–4 (85 in one repo, with samples) | [few-mini-projects](https://github.com/yadavvijay267/few-mini-projects) |
 
 <!-- 3D CONTRIBUTION CITY -->
 ## 🌆 My Contribution Village
