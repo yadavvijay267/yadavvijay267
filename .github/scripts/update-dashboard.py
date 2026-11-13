@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Auto-update the stats in id-dashboard.svg (public repos + total commits + month).
+"""Auto-update the stats in id-dashboard.svg (public repos + total commits + month)
+and the repo count in hero.svg ("N repos").
 
 Runs in GitHub Actions (daily) with GITHUB_TOKEN. Fetches live counts from the
 GitHub API, regenerates the odometer strips in id-dashboard.svg, updates the
-month label, and rewrites the file only when something changed. Exits non-zero
-on API failure so a bad run is visible instead of silently committing stale data.
+month label, updates hero.svg's repo count, and rewrites files only when
+something changed. Exits non-zero on API failure so a bad run is visible
+instead of silently committing stale data.
 
 Usage:
     python3 update-dashboard.py [path/to/id-dashboard.svg]
@@ -87,6 +89,17 @@ def regen_strip(svg, x, new_max):
     return svg, True
 
 
+def update_hero(hero_svg, repo_count):
+    """Replace the 'N repos' text in hero.svg with the live repo count."""
+    pat = re.compile(r">(\d+) repos</text>")
+    m = pat.search(hero_svg)
+    if not m:
+        raise SystemExit("hero 'N repos' text not found - hero.svg structure changed?")
+    if int(m.group(1)) == repo_count:
+        return hero_svg, False
+    return pat.sub(f">{repo_count} repos</text>", hero_svg, count=1), True
+
+
 def main():
     path = sys.argv[1] if len(sys.argv) > 1 else "id-dashboard.svg"
     with open(path, encoding="utf-8") as f:
@@ -110,6 +123,24 @@ def main():
         with open(path, "w", encoding="utf-8") as f:
             f.write(svg)
         print(f"updated {path}")
+
+    # hero.svg carries the same repo count as static text ("N repos"); keep it
+    # in sync so it never goes stale again. Only when run on the real
+    # id-dashboard.svg (not a test/backup copy) and hero.svg sits beside it.
+    hero_changed = False
+    if os.path.basename(path) == "id-dashboard.svg":
+        hero_path = os.path.join(os.path.dirname(path) or ".", "hero.svg")
+        if os.path.exists(hero_path):
+            with open(hero_path, encoding="utf-8") as f:
+                hero_svg = f.read()
+            hero_svg, hero_changed = update_hero(hero_svg, len(repos))
+            if hero_changed:
+                with open(hero_path, "w", encoding="utf-8") as f:
+                    f.write(hero_svg)
+                print(f"updated {hero_path} to {len(repos)} repos")
+        else:
+            print(f"hero.svg not found beside {path}, skipped")
+    print(f"hero_changed={hero_changed}")
     return 0
 
 
