@@ -1,1 +1,35 @@
+name: Update Dashboard Stats
 
+# Keeps id-dashboard.svg fresh: public repos + total commits (and the month
+# label) are re-checked from the GitHub API and the SVG is updated + committed
+# automatically whenever the numbers change. Same pattern as profile-3d.yml.
+
+on:
+  schedule:
+    # run automatically every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/update-dashboard.yml
+      - .github/scripts/update-dashboard.py
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update dashboard stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: yadavvijay267
+        run: python3 .github/scripts/update-dashboard.py
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add id-dashboard.svg
+          git diff --cached --quiet || git commit -m "Update dashboard stats (repos/commits)"
+          git push
