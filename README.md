@@ -23,11 +23,7 @@
 
 | Project | What it is | Link |
 |---|---|---|
-| **Bio — Portfolio** | My portfolio site (static HTML/CSS/JS) — experience, case studies, skills, education | [bio.vijayyadav.workers.dev](https://bio.vijayyadav.workers.dev) |
 | **ResuMate** | AI resume builder — ATS score checker, AI writer, interview coach, My Resumes dashboard | [resumate.vijayyadav.workers.dev](https://resumate.vijayyadav.workers.dev) |
-| **AT&T F2 Fiber — Design QC** | Quality control of AT&T F2 Fiber design packages | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
-| **ARAMIS & Fielding** | Fiber design — ARAMIS-DT & fielding packages | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
-| **FTTH Network Design** | FTTH network — underground & overhead design | [Case study](https://bio.vijayyadav.workers.dev/case-studies) |
 | **Diwali Wish Page** | Interactive Diwali wish webpage — diyas, fireworks, wish cards | [Repo](https://github.com/yadavvijay267/diwali-wish-webpage) |
 | **100 Mini Projects** | 100 projects in 4 phases — Phase 1 (15 repos) + Phases 2–4 (85 in one repo, with samples) | [few-mini-projects](https://github.com/yadavvijay267/few-mini-projects) |
 
@@ -54,10 +50,8 @@
 <p align="center">
   <a href="mailto:yadavvijay267@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/vijaykryadav">LinkedIn</a> ·
-  <a href="https://bio.vijayyadav.workers.dev">Portfolio</a> ·
   <a href="https://resumate.vijayyadav.workers.dev">ResuMate</a> ·
-  <a href="https://github.com/yadavvijay267">GitHub</a> ·
-  <a href="https://bio.vijayyadav.workers.dev/downloads/vijay-kumar-yadav-resume.pdf">Resume</a>
+  <a href="https://github.com/yadavvijay267">GitHub</a>
 </p>
 
 <p align="center">

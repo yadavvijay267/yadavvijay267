@@ -110,67 +110,35 @@
     </g>
   </g>
   <g opacity="1">
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.306;0.525;1" dur="1.6s" begin="0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0;0 0" keyTimes="0;0.306;0.525;1" dur="1.6s" begin="0s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.381;0.600;1" dur="1.6s" begin="0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0;0 0" keyTimes="0;0.381;0.600;1" dur="1.6s" begin="0s" fill="freeze"/>
     <rect x="470" y="216" width="340" height="84" rx="16" fill="#12131f" stroke="#ffffff" stroke-opacity="0.07"/>
     <rect x="470" y="216" width="340" height="84" rx="16" fill="url(#connect-aurora-grad)" fill-opacity="0" stroke="url(#connect-aurora-grad)" stroke-opacity="0" stroke-width="1.5">
-      <animate attributeName="fill-opacity" values="0;0;0.07;0;0" keyTimes="0;0.308;0.383;0.458;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-      <animate attributeName="stroke-opacity" values="0;0;0.65;0;0" keyTimes="0;0.308;0.383;0.458;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="486" y="238" width="40" height="40" rx="12" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.35"/>
-    <g transform="translate(506 258)"><circle cx="0" cy="0" r="11" fill="none" stroke="#f472b6" stroke-width="2"/><ellipse cx="0" cy="0" rx="5" ry="11" fill="none" stroke="#f472b6" stroke-width="1.6"/><path d="M-11 0 L11 0 M-9.5 -5.5 L9.5 -5.5 M-9.5 5.5 L9.5 5.5" fill="none" stroke="#f472b6" stroke-width="1.4"/></g>
-    <text x="538" y="249" font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="1.5" fill="#9aa3b2">PORTFOLIO</text>
-    <text x="538" y="275" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="600" fill="#f2f4f8">bio.vijayyadav.workers.dev</text>
-    <g transform="translate(778 250)">
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;7 0;0 0" keyTimes="0;0.290;0.590;1" dur="2.4s" begin="0s" repeatCount="indefinite" additive="sum"/>
-      <path d="M0 0 L8 8 L0 16" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </g>
-  </g>
-  <g opacity="1">
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.381;0.600;1" dur="1.6s" begin="0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0;0 0" keyTimes="0;0.381;0.600;1" dur="1.6s" begin="0s" fill="freeze"/>
-    <rect x="830" y="216" width="340" height="84" rx="16" fill="#12131f" stroke="#ffffff" stroke-opacity="0.07"/>
-    <rect x="830" y="216" width="340" height="84" rx="16" fill="url(#connect-aurora-grad)" fill-opacity="0" stroke="url(#connect-aurora-grad)" stroke-opacity="0" stroke-width="1.5">
       <animate attributeName="fill-opacity" values="0;0;0.07;0;0" keyTimes="0;0.458;0.533;0.608;1" dur="6s" begin="0s" repeatCount="indefinite"/>
       <animate attributeName="stroke-opacity" values="0;0;0.65;0;0" keyTimes="0;0.458;0.533;0.608;1" dur="6s" begin="0s" repeatCount="indefinite"/>
     </rect>
-    <rect x="846" y="238" width="40" height="40" rx="12" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.35"/>
-    <g transform="translate(866 258)"><path d="M-7 -11 L5 -11 L10 -6 L10 11 L-7 11 Z" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linejoin="round"/><path d="M5 -11 L5 -6 L10 -6" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linejoin="round"/><path d="M-3.5 1 L-0.5 4.5 L4.5 -1.5" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
-    <text x="898" y="249" font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="1.5" fill="#9aa3b2">RESUMATE</text>
-    <text x="898" y="275" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="600" fill="#f2f4f8">resumate.vijayyadav.workers.dev</text>
-    <g transform="translate(1138 250)">
+    <rect x="486" y="238" width="40" height="40" rx="12" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.35"/>
+    <g transform="translate(506 258)"><path d="M-7 -11 L5 -11 L10 -6 L10 11 L-7 11 Z" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linejoin="round"/><path d="M5 -11 L5 -6 L10 -6" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linejoin="round"/><path d="M-3.5 1 L-0.5 4.5 L4.5 -1.5" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+    <text x="538" y="249" font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="1.5" fill="#9aa3b2">RESUMATE</text>
+    <text x="538" y="275" font-family="'Space Grotesk', sans-serif" font-size="16" font-weight="600" fill="#f2f4f8">resumate.vijayyadav.workers.dev</text>
+    <g transform="translate(778 250)">
       <animateTransform attributeName="transform" type="translate" values="0 0;0 0;7 0;0 0" keyTimes="0;0.410;0.710;1" dur="2.4s" begin="0s" repeatCount="indefinite" additive="sum"/>
       <path d="M0 0 L8 8 L0 16" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
   </g>
   <g opacity="1">
     <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.456;0.675;1" dur="1.6s" begin="0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0;0 0" keyTimes="0;0.456;0.675;1" dur="1.6s" begin="0s" fill="freeze"/>
-    <rect x="470" y="312" width="340" height="84" rx="16" fill="#12131f" stroke="#ffffff" stroke-opacity="0.07"/>
-    <rect x="470" y="312" width="340" height="84" rx="16" fill="url(#connect-aurora-grad)" fill-opacity="0" stroke="url(#connect-aurora-grad)" stroke-opacity="0" stroke-width="1.5">
+    <rect x="830" y="216" width="340" height="84" rx="16" fill="#12131f" stroke="#ffffff" stroke-opacity="0.07"/>
+    <rect x="830" y="216" width="340" height="84" rx="16" fill="url(#connect-aurora-grad)" fill-opacity="0" stroke="url(#connect-aurora-grad)" stroke-opacity="0" stroke-width="1.5">
       <animate attributeName="fill-opacity" values="0;0;0.07;0;0" keyTimes="0;0.608;0.683;0.758;1" dur="6s" begin="0s" repeatCount="indefinite"/>
       <animate attributeName="stroke-opacity" values="0;0;0.65;0;0" keyTimes="0;0.608;0.683;0.758;1" dur="6s" begin="0s" repeatCount="indefinite"/>
     </rect>
-    <rect x="486" y="334" width="40" height="40" rx="12" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
-    <g transform="translate(506 354)"><text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="800" fill="#a78bfa">&lt;/&gt;</text></g>
-    <text x="538" y="345" font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="1.5" fill="#9aa3b2">GITHUB</text>
-    <text x="538" y="371" font-family="'Space Grotesk', sans-serif" font-size="17" font-weight="600" fill="#f2f4f8">@yadavvijay267</text>
-    <g transform="translate(778 346)">
+    <rect x="846" y="238" width="40" height="40" rx="12" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+    <g transform="translate(866 258)"><text x="0" y="6" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="800" fill="#a78bfa">&lt;/&gt;</text></g>
+    <text x="898" y="249" font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="1.5" fill="#9aa3b2">GITHUB</text>
+    <text x="898" y="275" font-family="'Space Grotesk', sans-serif" font-size="17" font-weight="600" fill="#f2f4f8">@yadavvijay267</text>
+    <g transform="translate(1138 250)">
       <animateTransform attributeName="transform" type="translate" values="0 0;0 0;7 0;0 0" keyTimes="0;0.530;0.830;1" dur="2.4s" begin="0s" repeatCount="indefinite" additive="sum"/>
       <path d="M0 0 L8 8 L0 16" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-    </g>
-  </g>
-  <g opacity="1">
-    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.531;0.750;1" dur="1.6s" begin="0s" fill="freeze"/><animateTransform attributeName="transform" type="translate" values="0 16;0 16;0 0;0 0" keyTimes="0;0.531;0.750;1" dur="1.6s" begin="0s" fill="freeze"/>
-    <rect x="830" y="312" width="340" height="84" rx="16" fill="#12131f" stroke="#ffffff" stroke-opacity="0.07"/>
-    <rect x="830" y="312" width="340" height="84" rx="16" fill="url(#connect-aurora-grad)" fill-opacity="0" stroke="url(#connect-aurora-grad)" stroke-opacity="0" stroke-width="1.5">
-      <animate attributeName="fill-opacity" values="0;0;0.07;0;0" keyTimes="0;0.758;0.833;0.908;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-      <animate attributeName="stroke-opacity" values="0;0;0.65;0;0" keyTimes="0;0.758;0.833;0.908;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="846" y="334" width="40" height="40" rx="12" fill="#f472b6" fill-opacity="0.12" stroke="#f472b6" stroke-opacity="0.35"/>
-    <g transform="translate(866 354)"><path d="M0 -10 L0 3 M-5 -2 L0 3 L5 -2" fill="none" stroke="#f472b6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/><path d="M-9 7 L-9 10 L9 10 L9 7" fill="none" stroke="#f472b6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
-    <text x="898" y="345" font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="1.5" fill="#9aa3b2">RESUME</text>
-    <text x="898" y="371" font-family="'Space Grotesk', sans-serif" font-size="17" font-weight="600" fill="#f2f4f8">Download PDF</text>
-    <g transform="translate(1138 346)">
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 0;7 0;0 0" keyTimes="0;0.650;0.950;1" dur="2.4s" begin="0s" repeatCount="indefinite" additive="sum"/>
-      <path d="M0 0 L8 8 L0 16" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
     </g>
   </g>
 </svg>

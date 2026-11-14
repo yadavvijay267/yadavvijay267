@@ -110,8 +110,8 @@ def main():
     now = datetime.now(timezone.utc)
     month_label = f"LIVE · {MONTHS[now.month - 1]} {now.year}"
 
-    svg, c1 = regen_strip(svg, 318, len(repos))     # PUBLIC REPOS
-    svg, c2 = regen_strip(svg, 518, total_commits)  # TOTAL COMMITS
+    svg, c1 = regen_strip(svg, 518, len(repos))     # PUBLIC REPOS
+    svg, c2 = regen_strip(svg, 718, total_commits)  # TOTAL COMMITS
     changed = c1 or c2
     m = re.search(r"LIVE · [A-Z]{3} \d{4}", svg)
     if m and m.group(0) != month_label:
