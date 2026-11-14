@@ -27,7 +27,7 @@
 | **Diwali Wish Page** | Interactive Diwali wish webpage — diyas, fireworks, wish cards | [Repo](https://github.com/yadavvijay267/diwali-wish-webpage) |
 | **100 Mini Projects** | 100 projects in 4 phases — Phase 1 (15 repos) + Phases 2–4 (85 in one repo, with samples) | [few-mini-projects](https://github.com/yadavvijay267/few-mini-projects) |
 
-<!-- 3D CONTRIBUTION CITY -->
+<!-- HIDDEN: My Contribution Village (uncomment to restore)
 ## 🌆 My Contribution Village
 
 <p align="center">
@@ -41,6 +41,7 @@
 <p align="center">
   <i>Generated daily by the <a href=".github/workflows/profile-3d.yml">profile-3d workflow</a> (yoshi389111/github-profile-3d-contrib). Run it once manually from the Actions tab after pushing so the city appears.</i>
 </p>
+-->
 
 <!-- CONNECT -->
 <p align="center">
